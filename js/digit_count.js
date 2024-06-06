@@ -10,8 +10,3 @@ function animateValue(obj, start, end, duration) {
     };
     window.requestAnimationFrame(step);
   }
-  
-  animateValue(document.getElementById("judges"), 0, 4, 5000);
-  animateValue(document.getElementById("themes"), 0, 6, 5000);
-  animateValue(document.getElementById("teams"), 0, 100, 5000);
-  animateValue(document.getElementById("prizes"), 0, 10, 5000);
