@@ -110,47 +110,14 @@ body {
   font-family: "ethnic";
   font-size: 2rem;
   text-align: center;
-  animation: flicker-1 1.5s infinite alternate;
 }
 .topic-heading-2 {
   margin: 80px auto;
   font-family: "ethnic";
   font-size: 2rem;
   text-align: center;
-  animation: flicker-2 1.5s infinite alternate;
 }
-@keyframes flicker-1 {
-  0%,
-  18%,
-  22%,
-  25%,
-  53%,
-  57%,
-  100% {
-    text-shadow: 0 0 4px #fff, 0 0 70px #ed1996ff, 0 0 80px #ed1996ff, 0 0 90px #ed1996ff;
-  }
-  20%,
-  24%,
-  55% {
-    text-shadow: none;
-  }
-}
-@keyframes flicker-2 {
-  0%,
-  18%,
-  22%,
-  25%,
-  53%,
-  57%,
-  100% {
-    text-shadow: 0 0 4px #fff, 0 0 70px #00aeefff, 0 0 80px #00aeefff, 0 0 90px #00aeefff;
-  }
-  20%,
-  24%,
-  55% {
-    text-shadow: none;
-  }
-}
+
 
 /* highlighted cards */
 .card-img-top {
