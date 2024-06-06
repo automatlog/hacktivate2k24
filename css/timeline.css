@@ -11,7 +11,7 @@
   letter-spacing: 5px;
   font-weight: 700;
   background: #ffffff;
-  color: #fff;
+  color: black;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
@@ -23,7 +23,7 @@
   position: absolute;
   content: " ";
   width: 2px;
-  background-color: #ffffff;
+  background-color: black;
   left: 50%;
   margin-left: 0;
 }
@@ -218,7 +218,7 @@
    color: rgb(0, 0, 0)  !important;
 }
 .right_content .timeline-title {
-  color:  rgb(255, 255, 255) !important;
+  color: black !important;
 }
 .right_content .timeline-badge {
   background: #F37335!important;
