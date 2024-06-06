@@ -53,7 +53,7 @@ body {
 
 /* btn-primary */
 .btn-primary, .btn-primary:hover {
-  background: #FFF;
+  background: #F37335;
   color: #273339ff;
   font-weight: 600;
   border: none;
@@ -88,7 +88,7 @@ body {
   padding-top: 100px;
 }
 .image-container{
-  margin-top: 120px;
+  margin-top: 100px;
 }
 
 @media screen and (max-width: 600px) {
