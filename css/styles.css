@@ -84,8 +84,14 @@ body {
   font-family: "good_times";
   font-size: 1.5rem;
   color: #F37335;
-  text-shadow: 0 0 0px #fff, 0 0 7px #F37335;
 }
+
+.day, .hour, .minute, .second{
+  font-family: "good_times";
+  font-size: 1.5rem;
+  color: #000000;
+}
+
 .timer-container{
   display: flex; 
   padding-top: 100px;
