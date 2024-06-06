@@ -51,6 +51,10 @@ body {
   position: absolute;
 }
 
+.apply-button-discord {
+  margin-left: 40px; /* Adjust the value as needed */
+}
+
 /* btn-primary */
 .btn-primary, .btn-primary:hover {
   background: #F37335;
