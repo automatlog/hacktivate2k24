@@ -80,8 +80,8 @@ body {
 .timer-text {
   font-family: "good_times";
   font-size: 1.5rem;
-  color: white;
-  text-shadow: 0 0 7px #fff, 0 0 7px #00aeefff;
+  color: #F37335;
+  text-shadow: 0 0 0px #fff, 0 0 7px #F37335;
 }
 .timer-container{
   display: flex; 
