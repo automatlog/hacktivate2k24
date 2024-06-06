@@ -1,11 +1,8 @@
 // Some random colors
 const colors = ["#ED1996ff", "#fff", "#F140A9ff", "#C489CEff", "#00AEEFff", "#59C9F3ff"];
 
-<<<<<<< HEAD
+
 const numBalls = 100;
-=======
-const numBalls = 200;
->>>>>>> parent of 4ceb4d3 (Updates)
 const balls = [];
 
 for (let i = 0; i < numBalls; i++) {
