@@ -40,7 +40,7 @@ body {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(180deg, rgba(237, 25, 150, 1) 0%, rgba(254, 254, 254, 1) 50%, rgba(0, 174, 239, 1) 100%);
+  background: linear-gradient(180deg, rgb(237, 92, 25) 0%, rgba(254, 254, 254, 1) 50%, rgb(0, 0, 0) 100%);
   border-radius: 10px;
 }
 
@@ -49,6 +49,9 @@ body {
   font-family: "ethnic";
   padding: 2%;
   position: absolute;
+}
+.apply-button-discord {
+  margin-left: 40px; /* Adjust the value as needed */
 }
 
 /* btn-primary */
@@ -131,7 +134,7 @@ body {
 .card-t {
   font-size: 1.75rem;
   font-weight: 600;
-  color: white;
+  color: #F37335;
 }
 .card-body {
   text-align: center;
