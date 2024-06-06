@@ -21,7 +21,7 @@ body {
   overflow-x: hidden;
   display: block;
   position: relative;
-  color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0) ;
   background-color: #ffffff;
   font-family: "Montserrat", sans-serif;
   /* box-shadow: inset 0 0 2rem rgba(0, 0, 0, .5); */
@@ -372,6 +372,7 @@ body {
   width : 400px;
 }
 .card-sponsors h2{
+  color: black;
   font-family: "good_times";
   font-size: 1.3rem;
   font-weight: 300;
@@ -391,7 +392,7 @@ body {
 .panel-heading a {
   display: inline-block;
   font-family: "good_times";
-  color: #59c9f3ff;
+  color: #F37335;
   text-decoration: none;
   border: none;
   outline: none;
@@ -416,6 +417,7 @@ body {
   right: 2rem;
 } */
 .panel-body {
+color: #F37335;
   padding: 0 2rem 2rem;
 }
 /* footer */
@@ -429,6 +431,6 @@ body {
 }
 .foot-links a{
   text-decoration: none;
-  color: white;
+  color: black;
   font-weight: 400;
 }
