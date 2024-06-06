@@ -319,7 +319,7 @@ body {
 }
 .speaker-box h3 {
   margin-top: 15px;
-  font-weight: 500;
+  font-weight: bold;
 }
 .speaker-box:hover .speaker-img {
   transform: scale(0.9);
@@ -351,13 +351,15 @@ body {
   transform: translate(0);
 }
 .mentor-heading1 {
-  color: #59c9f3ff;
+  color: #F37335;
   font-family: "good_times";
+  font-weight: 800;
   font-size: 1rem;
 }
 .mentor-heading2 {
-  color: #ed1996ff;
+  color: #F37335;
   font-family: "good_times";
+  font-weight: 800;
   font-size: 1rem;
 }
 
