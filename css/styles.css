@@ -459,3 +459,30 @@ color: #F37335;
 .text-white{
   color:#000000 !important;
 }
+
+
+@media (max-width: 767px) {
+  .navbar-brand {
+    font-size: 18px;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 16px;
+  }
+
+  .developer-title {
+    font-size: 24px;
+  }
+
+  .developer-subtitle {
+    font-size: 16px;
+  }
+
+  .timer-text {
+    font-size: 14px;
+  }
+
+  .btn-primary img {
+    height: 24px;
+  }
+}
