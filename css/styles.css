@@ -85,6 +85,7 @@ body {
   font-family: "good_times";
   font-size: 1.5rem;
   color: #F37335;
+  text-align: center;
 }
 
 .day, .hour, .minute, .second{
@@ -95,10 +96,11 @@ body {
 
 .timer-container{
   display: flex; 
-  padding-top: 100px;
+  padding-top: 50px;
+  flex-direction: row;
 }
 .image-container{
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 @media screen and (max-width: 600px) {
@@ -172,14 +174,25 @@ body {
   opacity: 0.7;
   z-index: -9999999;
 }
+.developer-presents {
+  margin-top: 100px;
+  text-align: center;
+  justify-content :center;
+  width: 100%;
+  font-size: 1.5rem;
+  color: #F37335;
+  font-family: "good_times";
+}
+
 .developer-title {
   font-family: "good_times";
   margin-top: 30px;
 }
 .developer-subtitle {
   /* font-family: "ethnic"; */
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-top: 40px;
+  font-family: "good_times";
 }
 
 /* prize section */
@@ -257,7 +270,7 @@ body {
 }
 .inner h4 {
   margin-top: 1rem;
-  color: #59c9f3ff;
+  color: #F37335;
   font-family: "ethnic";
   font-size: 1rem;
 }
