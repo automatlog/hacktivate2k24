@@ -478,7 +478,9 @@ body {
   .navbar-brand {
     font-size: 18px;
   }
-  
+  .developer-presents{
+    padding-top: calc(5vh);
+  }
   .topic-heading-2 {
     padding-top: calc(70vh); /* Adjust 18px according to your needs */
   }
