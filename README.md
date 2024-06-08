@@ -18,10 +18,10 @@ Call to Action: Hacktivate-2K24 is more than just a website—it's a movement. J
 
 To get started with the Hacktivate-2K24 website, simply clone this repository and open index.html in your preferred web browser.
 
-### bash
-
+'''bash
 git clone git@github.com:automatlog/hacktivate2k24.git
 cd hacktivate-2k24
+'''
 
 ## Contributing
 
